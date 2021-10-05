@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd4e235be6c743408d1af40acc11358, type: 3}
+  m_Name: D3_AI007_C001
+  m_EditorClassIdentifier: 
+  dialogueLine: Honour your mother and your father
+  choices:
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: 80bae31c14a0e8b41a3890b0562bee09, type: 2}
+  stabilityChange: 5

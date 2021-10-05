@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd4e235be6c743408d1af40acc11358, type: 3}
+  m_Name: D001_AI005
+  m_EditorClassIdentifier: 
+  dialogueLine: A long time ago in a Timeline far, far away, I participated in a
+    GameJam called "Ludum Dare". As so often before, after finishing my game, I played
+    the Games of the other participants. Then I started "Lost In Time". I have been
+    wandering through the minds of historical persons, since that moment. Didn`t
+    the same happen to you?
+  choices:
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: a4ff6bfc2e7445b4d983034cf90c4072, type: 2}
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: e36de58e4e499a1408f0b217385402b3, type: 2}
+  stabilityChange: 0

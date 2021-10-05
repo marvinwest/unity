@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd4e235be6c743408d1af40acc11358, type: 3}
+  m_Name: AI011
+  m_EditorClassIdentifier: 
+  dialogueLine: Nevermind. So who should my vice president be?
+  choices:
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: fb7625fb585b7334fb646bd488cd5a78, type: 2}
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: 276418139ad1b994a834d18490f420a7, type: 2}
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: 323dbcb74e28fcd48ad796d801e469fd, type: 2}
+  stabilityChange: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd4e235be6c743408d1af40acc11358, type: 3}
+  m_Name: AI001_C001
+  m_EditorClassIdentifier: 
+  dialogueLine: Hey Joe, wake up. There is an election to be won
+  choices:
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: 85f486f4715115449937a033be901a64, type: 2}
+  stabilityChange: 5

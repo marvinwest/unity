@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd4e235be6c743408d1af40acc11358, type: 3}
+  m_Name: D3_AI001
+  m_EditorClassIdentifier: 
+  dialogueLine: Suppose I go to my people and say to them, the God of your fathers
+    has sent me to you and they ask me, what is his name? Then what shall I tell
+    them?
+  choices:
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: 5b281fad3030f4e43b981fae45c12da6, type: 2}
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: b8e47704ca1edcd43ace0dda5e4e4f2e, type: 2}
+  stabilityChange: 0

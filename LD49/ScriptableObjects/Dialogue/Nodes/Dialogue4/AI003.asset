@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cd4e235be6c743408d1af40acc11358, type: 3}
+  m_Name: AI003
+  m_EditorClassIdentifier: 
+  dialogueLine: What should my election slogan be?
+  choices:
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: 4fb8a6ca3cd645f40bc563cb495452e4, type: 2}
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: c5261689c6048484f98332c6b5b580e9, type: 2}
+  - choicePreview: 
+    choiceNode: {fileID: 11400000, guid: 9aa3672a402701545b5e3ce9986a3800, type: 2}
+  stabilityChange: 0
